@@ -1,0 +1,4 @@
+{
+  "/api/recognizeSong/route": "app/api/recognizeSong/route.js",
+  "/(home)/page": "app/(home)/page.js"
+}
